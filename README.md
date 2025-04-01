@@ -1,4 +1,4 @@
-# Car-Number-Plates-Detection
+# Computer Vision Project : Car-Number-Plates-Detection
 
 <img width="960" alt="Screenshot 2025-04-01 090747" src="https://github.com/user-attachments/assets/29e66317-6dbe-4560-bd7f-c7b2c0954e1a" />
 
