@@ -1,6 +1,7 @@
 # Computer Vision Project : Car-Number-Plate-Detection
 
-<img width="960" alt="Screenshot 2025-04-01 090747" src="https://github.com/user-attachments/assets/29e66317-6dbe-4560-bd7f-c7b2c0954e1a" />
+<img width="960" alt="Screenshot 2025-04-28 214101" src="https://github.com/user-attachments/assets/11e8ae52-7fb0-4482-8804-282f5c4629fb" />
+
 
 ## Steps To Run Code
 1. Conda Create -p ./venv python=3.9 -y
